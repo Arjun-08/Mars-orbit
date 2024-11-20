@@ -43,7 +43,8 @@ The implementation consists of five main functions:
   - Angular errors were computed for each opposition, and the maximum angular error was minimized.
 - **Visualization**:
   - Generated plots of the optimized orbit and the angular error distribution.
-
+  - ![image](https://github.com/user-attachments/assets/17343dba-b7f2-4af2-a70b-95aace410696)
+  - ![plot1](https://github.com/user-attachments/assets/880f50bd-6046-4fec-8daf-307e0468ce15)
 
 
 ## **Dependencies**
